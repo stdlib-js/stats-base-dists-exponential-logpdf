@@ -2,6 +2,65 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-02-09)
+
+<section class="features">
+
+### Features
+
+-   [`a94091c`](https://github.com/stdlib-js/stdlib/commit/a94091cc3207e821b19129832ffce6bee8bb5fed) - add C implementation for `stats/base/dists/exponential/logpdf` [(#4176)](https://github.com/stdlib-js/stdlib/pull/4176)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3584](https://github.com/stdlib-js/stdlib/issues/3584)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a94091c`](https://github.com/stdlib-js/stdlib/commit/a94091cc3207e821b19129832ffce6bee8bb5fed) - **feat:** add C implementation for `stats/base/dists/exponential/logpdf` [(#4176)](https://github.com/stdlib-js/stdlib/pull/4176) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
+-   [`3250d4f`](https://github.com/stdlib-js/stdlib/commit/3250d4fb004a417dfd58fdc5a58d7efabc0f2b6e) - **bench:** refactor random number generation in `stats/base/dists/exponential` [(#4917)](https://github.com/stdlib-js/stdlib/pull/4917) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Karan Anand
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)

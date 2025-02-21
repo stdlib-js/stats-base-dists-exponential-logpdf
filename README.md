@@ -260,6 +260,12 @@ int main( void ) {
 
 </section>
 
+<!-- /.examples -->
+
+</section>
+
+<!-- ./c -->
+
 <!-- Section to include cited references. If references are included, add a horizontal rule *before* the section. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="references">
@@ -294,11 +300,6 @@ For more information on the project, filing bug reports and feature requests, an
 [![Chat][chat-image]][chat-url]
 
 ---
-
-## License
-
-See [LICENSE][stdlib-license].
-
 
 ## Copyright
 
@@ -345,8 +346,6 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/stats-base-dists-exponential-logpdf/tree/esm
 [esm-readme]: https://github.com/stdlib-js/stats-base-dists-exponential-logpdf/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/stats-base-dists-exponential-logpdf/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-exponential-logpdf/main/LICENSE
 
 [pdf]: https://en.wikipedia.org/wiki/Probability_density_function
 
